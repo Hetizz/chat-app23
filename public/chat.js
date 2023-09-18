@@ -1,7 +1,7 @@
 'use strict';
 
 //const socket = io('http://localhost:3000');
-const socket = io('http://mediajakelu.norwayeast.cloudapp.azure.com:3000');
+const socket = io('https://mediajakelu.norwayeast.cloudapp.azure.com:3000');
 
 let user;
 
